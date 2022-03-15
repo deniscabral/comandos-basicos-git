@@ -17,26 +17,32 @@ Bom estudo e aproveite para colaborar com esta anotação!  <br>
 **Primeiros comandos:**
 
 - Imprime a versão do pacote Git instalada exibindo a sua origem.
-  	**git --version**
+  	**git --version** <br>
 
 - Imprime a sinopse e uma lista dos comandos mais usados.
-  	**git --help**
+  	**git --help** <br>
 
 
 
 **OS COMANDOS DO GIT**
 
-Dividimos o Git em comandos de alto nível ("porcelana") e de baixo nível ("encanamento").
+<p>Dividimos o Git em comandos de alto nível ("porcelana") e de baixo nível ("encanamento").
 
-Separamos alguns comandos porcelana nos comandos principais e em alguns utilitários auxiliares do usuário.
+Separamos alguns comandos porcelana nos comandos principais e em alguns utilitários auxiliares do usuário. </p>
 
 Alguns dos principais comandos porcelana:
 
 - Cria um repositório vazio para o Git ou reinicializa um repositório já existente.
-  	**git init nome-do-repositório**
+  	**git init nome-do-repositório** <br>
 
-- Adiciona o conteúdo dos arquivos ao índice.
-  	**git add .**
+- Adiciona o conteúdo dos arquivos ao índice. 
+  	**git add .** <br>
 
 - Grava as alterações para o repositório e adiciona uma mensagem.
-  	**git commit -m "mensagem"**
+  	**git commit -m "mensagem"** <br>
+
+- Atualiza os repositórios remotos através da associação dos objetos, na branch main.
+  	**git push origin main** <br>
+
+- Capture do repositório remoto e o integre com um outro repositório local.
+  	**git pull** <br>
