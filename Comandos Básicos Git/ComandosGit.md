@@ -16,10 +16,10 @@ Bom estudo e aproveite para colaborar com esta anotação!  <br>
 
 **Primeiros comandos:**
 
-- Imprime a versão do pacote Git instalada exibindo a sua origem.
+- Imprime a versão do pacote Git instalada exibindo a sua origem. <br>
   	**git --version** <br>
 
-- Imprime a sinopse e uma lista dos comandos mais usados.
+- Imprime a sinopse e uma lista dos comandos mais usados. <br>
   	**git --help** <br>
 
 
@@ -30,19 +30,19 @@ Bom estudo e aproveite para colaborar com esta anotação!  <br>
 
 Separamos alguns comandos porcelana nos comandos principais e em alguns utilitários auxiliares do usuário. </p>
 
-Alguns dos principais comandos porcelana:
+Alguns dos principais comandos porcelana: <br>
 
-- Cria um repositório vazio para o Git ou reinicializa um repositório já existente.
+- Cria um repositório vazio para o Git ou reinicializa um repositório já existente. <br>
   	**git init nome-do-repositório** <br>
 
-- Adiciona o conteúdo dos arquivos ao índice. 
+- Adiciona o conteúdo dos arquivos ao índice. <br>
   	**git add .** <br>
 
-- Grava as alterações para o repositório e adiciona uma mensagem.
+- Grava as alterações para o repositório e adiciona uma mensagem. <br>
   	**git commit -m "mensagem"** <br>
 
-- Atualiza os repositórios remotos através da associação dos objetos, na branch main.
+- Atualiza os repositórios remotos através da associação dos objetos, na branch main. <br>
   	**git push origin main** <br>
 
-- Capture do repositório remoto e o integre com um outro repositório local.
+- Capture do repositório remoto e o integre com um outro repositório local. <br>
   	**git pull** <br>
